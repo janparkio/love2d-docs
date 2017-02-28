@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Beginner friendly LÖVE 2D documentation
+Welcome to the beginner friendly love2d documentation. Here you'll find a group of examples and neat implementation of this beautiful game framework. Follow me in this exciting journey to becoming a game developer, put on your seatbelt and enojoy the ride. (Seriusly, please put on that seatbelt the road is a little rough).
 
-You can use the [editor on GitHub](https://github.com/pakchano/love2d-docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### What is LÖVE?
+LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS. [Source love2d.org](https://love2d.org/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you really want to know more details about this *wonderful framework* go to [Is LÖVE good for me?](http://#).
 
-### Markdown
+### Getting started
+Let us begin with the very basics, downloading **love2d** to your desktop from [the download site](https://love2d.org/#download).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pakchano/love2d-docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![]()
