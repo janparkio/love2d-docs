@@ -4,22 +4,16 @@ Welcome to the beginner friendly love2d documentation. Here you'll find a group 
 ### What is LÖVE?
 LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS. Source: [love2d.org](https://love2d.org/)
 
-> If you really want to know more details about this *wonderful framework* go to [Is LÖVE good for me?](http://#).
+> If you really want to know more details about this *wonderful framework* go to "[Is LÖVE good for me?](http://#)."
 
 ### Getting started
 Let us begin with the very basics, downloading **love2d** to your desktop from [the download site](https://love2d.org/#download).
 
-<style>
-    div#download-img {
-        background: url('site/img/love2d-main-site.png');
-    }
-    div#download-img:hover {
-        background: url('site/img/love2d-main-site-circled.png');
-    }
-</style>
-<div id="download-img">
-    <img src="site/img/love2d-main-site.png">
-</div>
+<img alt-text="Mouse clicking the download site" src="site/img/love2d-download-page.gif">
+
+Choose the appropiate link for your current desired operating system. In my case it would be macOS, but don't worry there are no perticular differences between the two other than the way of opening the files. I'll go throw the process of using both Windows and macOs versions on this quick [installation process](####installation-process) below.
+
+#### Installation Process
 
 ```lua
     function love.draw()
