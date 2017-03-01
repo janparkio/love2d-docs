@@ -4,7 +4,7 @@ But, if you are talking about the *game framework love2d* it boils down to these
 
 - What types of games you want to develop [Go to desirable goal](#what-types-of-games-you-can-develop?).
 - Your current programming knowledge, if you have any [Go programming section](#programming-in-love2d-with-lua).
-- And, if you want to get started with game development but you don't know how [Go to getting started](../#getting-started).
+- And, if you want to get started with game development but you don't know how [Go to getting started](../../#getting-started).
 
 ### What types of games you can develop?
 
