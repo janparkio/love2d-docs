@@ -19,7 +19,7 @@ Love2d uses. Lua is a powerful, efficient, lightweight, embeddable scripting lan
 **But, what does that even mean?** - It is basically a very simple programming language that uses simple syntax or words to speak to the computer and produce a desirable result.
 
 For example, print to the screen "I am a plant."
-Go to this page [repl.it](https://repl.it/languages/lua), and paste the following code on the left text area and click *Run* to see the outcome. Ok, ready?
+Go to this page [repl.it](https://repl.it/languages/lua), and paste the following code into the left text area and click *Run* to see the outcome. Ok, ready?
 
 ```lua
 if true then
