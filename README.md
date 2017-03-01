@@ -4,7 +4,7 @@ Welcome to the beginner friendly love2d documentation. Here you'll find a group 
 ### What is LÖVE?
 LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS. Source: [love2d.org](https://love2d.org/)
 
-> If you really want to know more details about this *wonderful framework* adn what is Lua for example go to "[Is LÖVE good for me?](site/is-love-good-for-me/#is-love-good-for-me)"
+> If you really want to know more details about this *wonderful framework* adn what is Lua for example go to "[Is LÖVE good for me?](site/is-love-good-for-me)"
 
 ### Getting started
 Let us begin with the basic requirements.
