@@ -50,3 +50,5 @@ Go to the applications folder. Drag the Love.app to the Applications folder.
 Open the love.app at least once.
 
 #### Make your first game
+Let's get started.
+- [Is Löve good for me?](https://janparkio.github.io/love2d-docs/site/is-love-good-for-me/)
